@@ -1,7 +1,7 @@
 # Application for example
 
 ---
-![Main workflow](https://github.com/hillel-i-python-pro-i-2022-08-26/shared__python__example/actions/workflows/main-workflow.yml/badge.svg)
+[![Main workflow](https://github.com/VichiesUA/homework__stas_yatsyn__flask_sql/actions/workflows/workflow.yml/badge.svg)](https://github.com/VichiesUA/homework__stas_yatsyn__flask_sql/actions/workflows/workflow.yml)
 
 ## 🏠 Homework
 
